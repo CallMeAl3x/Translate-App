@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'DMSans';
+    src: url(./assets/fonts/DM_Sans/DMSans-VariableFont.ttf);
+  }
+
+  body {
+    font-family: 'DMSans';
+    font-weight: 500;
+    background-image: url('./assets/img/hero_img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+
+  .bg-color {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(4,7,17,1) 77%, rgba(4,7,17,1) 100%);
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+  }
+
+  img {
+    max-width: none;
+  }
+}

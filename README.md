@@ -1,8 +1,47 @@
-# React + Vite
+Il s'agit d'une solution pour le défi [Dev Challenges](https://devchallenges.io/challenge/47) sur Dev Challenges.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table des matières
 
-Currently, two official plugins are available:
+- [Aperçu](#aperçu)
+  - [Le défi](#le-défi)
+  - [Capture d'écran](#capture-décran)
+  - [Liens](#liens)
+  - [Construit avec](#construit-avec)
+- [Auteur](#auteur)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Aperçu
+
+### Le défi
+
+- Les utilisateurs doivent pouvoir : 
+
+    - Modifier le texte à traduire avec un maximum de 500 caractères.
+
+    - Voir le texte traduit après avoir sélectionné le bouton Traduire.
+
+    - Choisir différentes langues pour la traduction. Ils devraient voir au moins 3 options : Détecter la langue, Anglais et Français.
+
+    - Ecouter les textes traduits et les textes traduits.
+
+    - Copier les textes traduits et traduits.
+
+### Capture d'écran
+
+![Desktop](./public/desktop.png)
+
+### Liens
+
+- [URL du site en direct](https://translate-b-alexandre.netlify.app)
+
+
+### Construit avec
+
+- Vite (Framework React)
+- TailwindCSS
+- API fetch
+- [ResponsiveVoice] (https://responsivevoice.org)
+- [Mymemory] (https://mymemory.translated.net)
+
+## Auteur
+
+- Dev Challenge - [@CallMeAl3x](https://devchallenges.io/profile/4b9e326e-7fac-4811-b859-ca80373be3dd)

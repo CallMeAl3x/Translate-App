@@ -1,4 +1,4 @@
-Il s'agit d'une solution pour le défi [Dev Challenges](https://devchallenges.io/challenge/47) sur Dev Challenges.
+Il s'agit d'une solution pour le défi [Translate App](https://devchallenges.io/challenge/47) sur Dev Challenges.
 
 ## Table des matières
 

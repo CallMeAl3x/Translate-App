@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://translate-b-alexandre.netlify.app/*"
+to = "https://translate-app.bonefons.com/:splat"
+status = 301
+force = true

@@ -111,7 +111,7 @@ function App() {
 
   return (
     <>
-      <main className="text-text font-bold font flex flex-col items-center sm:justify-center">
+      <main className="text-text font-bold font flex flex-col items-center sm:justify-center h-full min-h-screen">
         <div className="fixed top-0 left-0 bg-color"></div>
         <div className="flex justify-center w-full mt-12">
           <img src={logo} alt="" className="flex justify-center" />
